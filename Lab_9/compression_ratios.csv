@@ -1,0 +1,9 @@
+Original File,Compressed File,Compressed Size (bytes),Compression Ratio
+test.bmp,test.bmp.zip,602336,1.3581422993146681
+R_r1.bmp,R_r1.bmp.zip,623156,1.312631187054285
+M_r1.bmp,M_r1.bmp.zip,623362,1.3121974069641718
+H.bmp,H.bmp.zip,623148,1.3126480386681816
+R_r2.bmp,R_r2.bmp.zip,622877,1.3132191427842095
+M_r2.bmp,M_r2.bmp.zip,622963,1.3130378529704012
+R_r3.bmp,R_r3.bmp.zip,622788,1.3134068093797568
+M_r3.bmp,M_r3.bmp.zip,622823,1.3133330015108626
